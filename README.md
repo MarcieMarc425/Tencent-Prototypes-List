@@ -1,3 +1,3 @@
 # Iterations of WeChat App prototypes
 
-list not complete.
+Final complete version is not shown in repo due to NDA.
